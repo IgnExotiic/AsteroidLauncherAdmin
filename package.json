@@ -1,7 +1,7 @@
 {
-    "name": "asteroid_launcher",
-    "preductname": "Asteroid Launcher",
-    "version": "1.4.6",
+    "name": "asteroid_admin_launcher",
+    "preductname": "Asteroid Admin Launcher",
+    "version": "1.0.0",
     "description": "Launcher de Asteroid Studios",
     "main": "src/app.js",
     "author": "IgnExotic",
