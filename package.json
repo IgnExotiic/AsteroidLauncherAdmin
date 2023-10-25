@@ -1,11 +1,11 @@
 {
     "name": "asteroid_admin_launcher",
     "preductname": "Asteroid Admin Launcher",
-    "version": "1.0.0",
-    "description": "Launcher de Asteroid Studios",
+    "version": "1.0.1",
+    "description": "Launcher para Administradores de Asteroid Studios",
     "main": "src/app.js",
     "author": "IgnExotic",
-    "url": "http://hypernw.fun/squidgames2",
+    "url": "http://hypernw.fun/admin",
     "engines": {
         "node": "16.x.x"
     },

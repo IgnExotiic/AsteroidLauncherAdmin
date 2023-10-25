@@ -77,8 +77,8 @@
     height: 37px;
     border-radius: 20px;
     border: rgba(177, 177, 177, 0.822);;
-    background: rgba(138, 138, 138, 0.255);
-    background: radial-gradient(circle, rgba(138, 138, 138, 0.253) 0%, rgba(138, 138, 138, 0.315) 100%);
+    background: rgba(0, 235, 12, 0.884);
+    background: radial-gradient(circle, rgba(0, 235, 12, 0.884) 0%, rgba(0, 235, 12, 0.884) 100%);
     backdrop-filter: blur(30px);
     font: normal normal bold 20px/25px Poppins;
     color: #121212;

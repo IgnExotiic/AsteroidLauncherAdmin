@@ -7,7 +7,7 @@ DiscordRPC.register(clientId);
 async function setActivity() {
    if (!RPC) return;
    RPC.setActivity({
-       state: `Jugando a "SquidGames 2"`,
+       state: `Creando los "Saw Minecraft Games"`,
        startTimestamp: Date.now(),
        largeImageKey: 'logo',
        smallImageKey: 'test2',
